@@ -26,7 +26,7 @@ library(zoo)
 
 ```
 
-```{r loading data, results='hide'}
+```{r loading_data, results='hide'}
 
 # Load the data from csv file
 activity <- read.csv("C:/Users/mgorter/Desktop/Rfiles/activity.csv", header = TRUE, sep = ",")
